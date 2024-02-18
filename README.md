@@ -1,5 +1,5 @@
-# Product Design & Development 
-## Hi
+# Now Learning : Web Development with The Odin Project
+## Hello :)
 
 <!--
 **johnyxaxa/johnyxaxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
