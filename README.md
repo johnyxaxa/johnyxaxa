@@ -1,6 +1,6 @@
 # Now Learning : Web Development with The Odin Project
 ## Hello :
-![A picture Monkey D. Luffy](images/one-piece-monkey-d-luffy.gif)
+
 
 <!--
 **johnyxaxa/johnyxaxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
